@@ -1,0 +1,6 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+When extracting a chunk of code into it's own `def`, the new definition needs to be defined before first usage of it.

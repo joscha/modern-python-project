@@ -1,0 +1,6 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+Keep changes (the diff) to a minimum; i.e. unrelated changes and improvements should be mentioned in the response but the code kept as stable as possible.

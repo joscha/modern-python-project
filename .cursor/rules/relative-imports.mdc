@@ -1,0 +1,6 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+When importing types that are within the package, prefer relative imports over absolute

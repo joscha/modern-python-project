@@ -1,0 +1,6 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+When writing and/or fixing tests, try to only change the test code in a way that keeps the intent. Don't change the implementation other than possibly changes to inject a dependency, making property/function visible for test and other changes that do not change the implemented behaviour.
