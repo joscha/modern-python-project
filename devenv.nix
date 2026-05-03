@@ -83,6 +83,8 @@
       ]
     );
     markdownlint.enable = true;
+    yamlfmt.enable = true;
+    yamlfmt.settings.lint-only = false;
     trufflehog.enable = true;
   };
 
